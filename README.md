@@ -1,3 +1,30 @@
+# gameframework2d-MarkCedrickVillanueva
+
+Arcane Gold - A 2d golf styled puzzle game
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+
+## Getting Started
+
+Welcome to the gameframework2d-MarkCedrickVillanueva project! 
+This is the start of Arcane Golf project, a 2d puzzle golf style game in the works.
+
+Deliverables:
+    Functioning Entity System
+    Fully interact-able environment
+    User Interface (HUD, Stats, Messages, menus)
+    File read / write access (high score list, saved games, saved songs, etc)
+    README for how to play and see all game features (this should be in the git repo)
+    Basic Mini Golf Mechanics with a the ball moving and bouncing off of walls and obstacles
+    At least 5 puzzle elements to add to the levels
+    At least 5 obstacles to add to the levels
+    At least (you guessed it) 5 spells to unlock to assist in the completion of the game
+    A pro shop / equipment / high score screen
+
+
+
 # gameframework2d (GF2D)
 a collection of utlitity functions designed to facilitate creating 2D games with SDL2
 This project is specifically intended to function as an educational tool for my students taking 2D Game Programming.
