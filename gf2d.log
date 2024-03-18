@@ -1,0 +1,6 @@
+C:\Users\Mark Cedrick\OneDrive\Documents\GitHub\gameframework2d\src\game.c:30: ---==== BEGIN ====---
+C:\Users\Mark Cedrick\OneDrive\Documents\GitHub\gameframework2d\src\gf2d_graphics.c:158: graphics initialized
+C:\Users\Mark Cedrick\OneDrive\Documents\GitHub\gameframework2d\src\gf2d_sprite.c:47: sprite system initialized
+C:\Users\Mark Cedrick\OneDrive\Documents\GitHub\gameframework2d\src\game.c:115: ---==== END ====---
+C:\Users\Mark Cedrick\OneDrive\Documents\GitHub\gameframework2d\src\gf2d_sprite.c:30: sprite system closed
+C:\Users\Mark Cedrick\OneDrive\Documents\GitHub\gameframework2d\src\gf2d_graphics.c:267: graphics closed
