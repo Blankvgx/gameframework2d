@@ -1,6 +1,6 @@
 # gameframework2d-MarkCedrickVillanueva
 
-Arcane Gold - A 2d golf styled puzzle game
+Arcane Golf - A 2d golf styled puzzle game
 
 ## Table of Contents
 
